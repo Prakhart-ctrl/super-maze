@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PrakharApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PrakharApplication.class, args);
+		SpringApplication.run(PrakharApplication.class, args); 
 	}
 
 }
