@@ -8,6 +8,7 @@ public class PrakharDashApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PrakharDashApplication.class, args);
+		System.Out.println("");
 	}
 
 }
